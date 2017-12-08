@@ -1,0 +1,2706 @@
+[
+  {  
+    "id":0,
+    "title":"3D Visualization of Conic Sections in XNA Game Programming Framework"
+ },
+ {  
+    "id":1,
+    "title":"A 3D Immersive Environment for Visualising Robot Sensor Data"
+ },
+ {  
+    "id":2,
+    "title":"A calibration system for a visual prosthesis"
+ },
+ {  
+    "id":3,
+    "title":"A collaborative web-based genome browser for large-scale epigenomic analysis"
+ },
+ {  
+    "id":4,
+    "title":"A Comparison of the Efficiency of an Atomic Component Operation versus Primitive Operations for Building a Real-Time Collaborative Editing API"
+ },
+ {  
+    "id":5,
+    "title":"A covert channel based on weak memory"
+ },
+ {  
+    "id":6,
+    "title":"A DSpace Mobile Theme for San Diego State University"
+ },
+ {  
+    "id":7,
+    "title":"A Dynamic Database Approach for E-Commerce System Using WordPress"
+ },
+ {  
+    "id":8,
+    "title":"A Flexible Test Interface and Grading Service For an AJAX Based Course Management System"
+ },
+ {  
+    "id":9,
+    "title":"A Foundational model of the ARM11 Memory Management Unit"
+ },
+ {  
+    "id":10,
+    "title":"A Household Mobile Robot"
+ },
+ {  
+    "id":11,
+    "title":"A Journey through the Lattice"
+ },
+ {  
+    "id":12,
+    "title":"A Method for Minimizing Computing Core Costs in Cloud Infrastructures That Host Location-Based Advertising Services"
+ },
+ {  
+    "id":13,
+    "title":"A Mobile Application to Aid Consumers in Accessing Cost Effectiveness in Their Automobile"
+ },
+ {  
+    "id":14,
+    "title":"A Mobile Device-Controlled Blood Pressure Monitor"
+ },
+ {  
+    "id":15,
+    "title":"A Mobile Tool about Causes and Distribution of Dramatic Natural Phenomena"
+ },
+ {  
+    "id":16,
+    "title":"A new Operating System Design for the Argus Multiprocessor platform"
+ },
+ {  
+    "id":17,
+    "title":"A New RAID Linux Flash File System"
+ },
+ {  
+    "id":18,
+    "title":"A New Software Project Management Tool"
+ },
+ {  
+    "id":19,
+    "title":"A PhD Thesis Submission/Examination System for UNSW"
+ },
+ {  
+    "id":20,
+    "title":"A Preferential Voting System as a Collaboration Software Solution"
+ },
+ {  
+    "id":21,
+    "title":"A service oriented cross-platform approach to perform thermodynamic calculations"
+ },
+ {  
+    "id":22,
+    "title":"A System for Retrograde Analysis in Chess"
+ },
+ {  
+    "id":23,
+    "title":"A System for Verifying Modularity in Action Theories"
+ },
+ {  
+    "id":24,
+    "title":"A System to Assist with Teaching Allocation"
+ },
+ {  
+    "id":25,
+    "title":"A usability Analysis of Privacy-preserving mobile applications through crowd sourcing"
+ },
+ {  
+    "id":26,
+    "title":"A Voting Ballot Web Application as a Collaborative Support System"
+ },
+ {  
+    "id":27,
+    "title":"ACP Automated Course Portal through Email"
+ },
+ {  
+    "id":28,
+    "title":"Adaptive Content Replication in Peer to Peer Networks"
+ },
+ {  
+    "id":29,
+    "title":"Adaptive E-learning"
+ },
+ {  
+    "id":30,
+    "title":"Adaptive Low Bit Rate Video Streaming Over Wireless Networks"
+ },
+ {  
+    "id":31,
+    "title":"Adaptive Server Selection in Peer-to-Peer Networks"
+ },
+ {  
+    "id":32,
+    "title":"Advanced File Manager with Multiple Functions to Manipulate Files with Different Formats"
+ },
+ {  
+    "id":33,
+    "title":"Advertisement Management System"
+ },
+ {  
+    "id":34,
+    "title":"Airline Reservation System"
+ },
+ {  
+    "id":35,
+    "title":"AJAX-based Process and Service Mashup"
+ },
+ {  
+    "id":36,
+    "title":"Allocation problems in practice"
+ },
+ {  
+    "id":37,
+    "title":"An AJAX Based Technical Forum for Thermodynamics Community"
+ },
+ {  
+    "id":38,
+    "title":"An AJAX-Based Event Calendar for a Course Management System"
+ },
+ {  
+    "id":39,
+    "title":"An Alternative Data Structure to Line Sweep Algorithm"
+ },
+ {  
+    "id":40,
+    "title":"An Android Application for Crime Analysis in San Diego"
+ },
+ {  
+    "id":41,
+    "title":"An Efficient Location Information Management System LIMS For Smartphone Applications"
+ },
+ {  
+    "id":42,
+    "title":"An Insight on a Mobile Friendly Web"
+ },
+ {  
+    "id":43,
+    "title":"An Intelligent Healthcare Data Management System for Mobile Environment"
+ },
+ {  
+    "id":44,
+    "title":"An Interactive Economic GIS Tool for Europe Using Map Objects for Java"
+ },
+ {  
+    "id":45,
+    "title":"An Interactive GIS Tool on Chinese History and Its Topography"
+ },
+ {  
+    "id":46,
+    "title":"An Interactive GUI Design for Code Analysis"
+ },
+ {  
+    "id":47,
+    "title":"An Interactive History and Geography of Mexico Using Map Objects for Java"
+ },
+ {  
+    "id":48,
+    "title":"An Interactive Mitochondrial Database"
+ },
+ {  
+    "id":49,
+    "title":"Analysing logs of super computers and data centres for anomaly detection"
+ },
+ {  
+    "id":50,
+    "title":"Analysis and Classification of Time-Series X-Ray Crystallography Image Sequences"
+ },
+ {  
+    "id":51,
+    "title":"Analysis and Debugging Techniques of Android Platform"
+ },
+ {  
+    "id":52,
+    "title":"Analysis of next generation sequencing data of microbial communities"
+ },
+ {  
+    "id":53,
+    "title":"Analysis of Protocols for High-assurance Networks"
+ },
+ {  
+    "id":54,
+    "title":"Android App for School of Arts and Design"
+ },
+ {  
+    "id":55,
+    "title":"Android Application for Library Resource Access"
+ },
+ {  
+    "id":56,
+    "title":"Android Based Menu Ordering App"
+ },
+ {  
+    "id":57,
+    "title":"Android based processor for real-time image processing in a bionic eye implant"
+ },
+ {  
+    "id":58,
+    "title":"Android Based Student Handbook"
+ },
+ {  
+    "id":59,
+    "title":"Android Implementation of the mSpeed mobile application"
+ },
+ {  
+    "id":60,
+    "title":"Android Joystick Application using Bluetooth"
+ },
+ {  
+    "id":61,
+    "title":"Android Mobile Quiz Game"
+ },
+ {  
+    "id":62,
+    "title":"Android Controlled Car"
+ },
+ {  
+    "id":63,
+    "title":"Android-Based Class Attendance Monitoring Application using Barcode"
+ },
+ {  
+    "id":64,
+    "title":"Answer Set Programming for Robot Control"
+ },
+ {  
+    "id":65,
+    "title":"API development for Application Analysis using CLANG/LLVM"
+ },
+ {  
+    "id":66,
+    "title":"Application Analysis for Designing Embedded Hardware"
+ },
+ {  
+    "id":67,
+    "title":"Application Design and Measurement in Cloud Platforms"
+ },
+ {  
+    "id":68,
+    "title":"Application Locker Android"
+ },
+ {  
+    "id":69,
+    "title":"Application of Ant-Based Technology in Selection of Glycan Markers for Cancer Detection"
+ },
+ {  
+    "id":70,
+    "title":"Application of Random Forest Algorithm in Biomarker Discovery for Cancer Detection"
+ },
+ {  
+    "id":71,
+    "title":"Applying Informed Search Methods to General Single-Player Games"
+ },
+ {  
+    "id":72,
+    "title":"Arabic Culture Course Management System"
+ },
+ {  
+    "id":73,
+    "title":"Architecture-driven Security Analysis"
+ },
+ {  
+    "id":74,
+    "title":"ASIP Design"
+ },
+ {  
+    "id":75,
+    "title":"Assorted GIS Tools"
+ },
+ {  
+    "id":76,
+    "title":"Attendance and Monitoring System using Barcode Technology"
+ },
+ {  
+    "id":77,
+    "title":"Attendance System using Barcode Technology"
+ },
+ {  
+    "id":78,
+    "title":"Automated Business Permit Issuance System"
+ },
+ {  
+    "id":79,
+    "title":"Automated Code Partitioning for MPSoC Architectures"
+ },
+ {  
+    "id":80,
+    "title":"Automated Legacy Code Partitioning for Embedded Systems"
+ },
+ {  
+    "id":81,
+    "title":"Automated Test Generation with Static Analysis"
+ },
+ {  
+    "id":82,
+    "title":"Automated Water Dispenser with Purifier with LG Touch Screen"
+ },
+ {  
+    "id":83,
+    "title":"Automatic extraction of information from textual financial data"
+ },
+ {  
+    "id":84,
+    "title":"Automatic IP Generation for ARGUS framework in FPGAs"
+ },
+ {  
+    "id":85,
+    "title":"Automation of Android Application and Bug Tracing Mechanism"
+ },
+ {  
+    "id":86,
+    "title":"Availability Analysis for Applications in Public Cloud"
+ },
+ {  
+    "id":87,
+    "title":"Bacterial evolution modelling the dynamics of antibiotic resistance"
+ },
+ {  
+    "id":88,
+    "title":"Belief Revision for General Game Playing"
+ },
+ {  
+    "id":89,
+    "title":"Big Data Analytics Hadoop Performance Analysis"
+ },
+ {  
+    "id":90,
+    "title":"Big Data Platform"
+ },
+ {  
+    "id":91,
+    "title":"Big Data Provenance"
+ },
+ {  
+    "id":92,
+    "title":"Bike and Running Trails on Android based on Google Maps API"
+ },
+ {  
+    "id":93,
+    "title":"Billing System"
+ },
+ {  
+    "id":94,
+    "title":"Bioinformatics of the immune system"
+ },
+ {  
+    "id":95,
+    "title":"Bioinformatics software testing"
+ },
+ {  
+    "id":96,
+    "title":"Biometric authentication on Apple Watch"
+ },
+ {  
+    "id":97,
+    "title":"Biometrics Projects"
+ },
+ {  
+    "id":98,
+    "title":"Bluetooth Controlled Robot using Android Mobile CoE/CpE/IT/CS"
+ },
+ {  
+    "id":99,
+    "title":"Book Catalog Application using Android"
+ },
+ {  
+    "id":100,
+    "title":"Breadcrumb Recommendation System The Nexus of User Intuition on Conceptual and Statistical Association"
+ },
+ {  
+    "id":101,
+    "title":"Brgy Certificate Issuance and Record Management System"
+ },
+ {  
+    "id":102,
+    "title":"Brgy Residents Information System PHP/MySQL"
+ },
+ {  
+    "id":103,
+    "title":"Building a Web Content Management System"
+ },
+ {  
+    "id":104,
+    "title":"Building Change Detection Based on Remote Sensed Images"
+ },
+ {  
+    "id":105,
+    "title":"Building Provably Secure Application"
+ },
+ {  
+    "id":106,
+    "title":"Burrows-Wheeler Aligner A Parallel Approach"
+ },
+ {  
+    "id":107,
+    "title":"Business Permit Issuance System"
+ },
+ {  
+    "id":108,
+    "title":"C-to-HDL Synthesis and Exploration for the ARGUS platform in FPGAs"
+ },
+ {  
+    "id":109,
+    "title":"Camera-Based Heart Rate Detector using Android"
+ },
+ {  
+    "id":110,
+    "title":"Car Registration License Plate Detection and Recognition System"
+ },
+ {  
+    "id":111,
+    "title":"Cascading Style Sheet Generator"
+ },
+ {  
+    "id":112,
+    "title":"Cashiering and Queuing System"
+ },
+ {  
+    "id":113,
+    "title":"Causal disease mutation identification in whole genome sequencing data"
+ },
+ {  
+    "id":114,
+    "title":"CEGAR testbed in Haskell"
+ },
+ {  
+    "id":115,
+    "title":"Cemetery Mapping and Information System"
+ },
+ {  
+    "id":116,
+    "title":"Chart feature facility packaged for map object java edition"
+ },
+ {  
+    "id":117,
+    "title":"CIBER Measurement Repository"
+ },
+ {  
+    "id":118,
+    "title":"Class Scheduling System"
+ },
+ {  
+    "id":119,
+    "title":"Class Time Table in Android"
+ },
+ {  
+    "id":120,
+    "title":"Classroom Management System"
+ },
+ {  
+    "id":121,
+    "title":"Click Modular Router on seL4"
+ },
+ {  
+    "id":122,
+    "title":"Client server based guidance system"
+ },
+ {  
+    "id":123,
+    "title":"Cloud Based File System on Mobile Device"
+ },
+ {  
+    "id":124,
+    "title":"Cloud-based computing for massively parallel single-cell transcriptomic analysis"
+ },
+ {  
+    "id":125,
+    "title":"Cloud-in-Cloud Software Defined Data Center for the Next Generation of Cloud Computing"
+ },
+ {  
+    "id":126,
+    "title":"Co-ordinating Multiple Cognitive Robotic Agents"
+ },
+ {  
+    "id":127,
+    "title":"CogenPro Migration from Java Desktop Application to Web Application"
+ },
+ {  
+    "id":128,
+    "title":"Cognitive vision"
+ },
+ {  
+    "id":129,
+    "title":"Collaborative Search of Universities for MS in the Southwestern US"
+ },
+ {  
+    "id":130,
+    "title":"Colonial History of Mexico A Bilingual GIS Application"
+ },
+ {  
+    "id":131,
+    "title":"Come and talk about topics of mutual interest"
+ },
+ {  
+    "id":132,
+    "title":"Comparative Analysis of Solutions to the Ramification Problem"
+ },
+ {  
+    "id":133,
+    "title":"Comparative Performance of Model checkers for epistemic logic"
+ },
+ {  
+    "id":134,
+    "title":"Comparative Study of Oracle Spatial and Postgres Spatial"
+ },
+ {  
+    "id":135,
+    "title":"Comparing performance of applications written in native SDK web phone frameworks and HTML5"
+ },
+ {  
+    "id":136,
+    "title":"Comprehensive Web Application for CITER Center of Industrial Training and Engineering Research"
+ },
+ {  
+    "id":137,
+    "title":"Computer Assisted Instruction any topic/subject PHP/MySQL Moodle"
+ },
+ {  
+    "id":138,
+    "title":"Computer Laboratory Time Management System"
+ },
+ {  
+    "id":139,
+    "title":"Computer-Aided Instruction with Voice Recognition system"
+ },
+ {  
+    "id":140,
+    "title":"Computerized Assessment of School Fees"
+ },
+ {  
+    "id":141,
+    "title":"Computerized detection of lung diseases using HRCT images"
+ },
+ {  
+    "id":142,
+    "title":"Computerized Faculty Evaluation System"
+ },
+ {  
+    "id":143,
+    "title":"Concurrency theory and distributed systems"
+ },
+ {  
+    "id":144,
+    "title":"Concurrent Programming Patterns for Scalable Network Platform Node js"
+ },
+ {  
+    "id":145,
+    "title":"Configurable Low-power FFT Processor Design and Implementation for Synthetic Aperture Radar SAR Applications"
+ },
+ {  
+    "id":146,
+    "title":"Content Management System for Art Lab SDSU"
+ },
+ {  
+    "id":147,
+    "title":"Continuous Deployment for Big Data Analytics Applications"
+ },
+ {  
+    "id":148,
+    "title":"Controlling a mobile robot using speech"
+ },
+ {  
+    "id":149,
+    "title":"Conversational Agent"
+ },
+ {  
+    "id":150,
+    "title":"Conversational agents for health communication"
+ },
+ {  
+    "id":151,
+    "title":"Convert sdo_geometry objectS to esri shapefiles"
+ },
+ {  
+    "id":152,
+    "title":"Converting American Sign Language to voice using RBFNN"
+ },
+ {  
+    "id":153,
+    "title":"Coordinated Multi-Robot Security System Using Fuzzy Logic Decision Making"
+ },
+ {  
+    "id":154,
+    "title":"Coordinating teams of robots"
+ },
+ {  
+    "id":155,
+    "title":"Course/Program Recommendation System"
+ },
+ {  
+    "id":156,
+    "title":"Creating Leon 3 platform for ARGUS"
+ },
+ {  
+    "id":157,
+    "title":"CREST and Process Mashup in the Cloud"
+ },
+ {  
+    "id":158,
+    "title":"CSE Database Managing Research/Publication Data"
+ },
+ {  
+    "id":159,
+    "title":"CUDA Implementation of Parallel Algorithms for Animal Noseprint Identification"
+ },
+ {  
+    "id":160,
+    "title":"Customization for Mobile EBook Readers"
+ },
+ {  
+    "id":161,
+    "title":"Cystic Fibrosis Patient Monitoring Application"
+ },
+ {  
+    "id":162,
+    "title":"Data Parallel Haskell Benchmark Suite"
+ },
+ {  
+    "id":163,
+    "title":"Data Races Detection in Java Programs"
+ },
+ {  
+    "id":164,
+    "title":"Deadlock Detection and Recovery in Linux"
+ },
+ {  
+    "id":165,
+    "title":"Decision support for a home telehealth system"
+ },
+ {  
+    "id":166,
+    "title":"Decision Support in Recommender Systems Using Opinion-Based Reviews"
+ },
+ {  
+    "id":167,
+    "title":"Decoding the language of life epigenomic determinants for cell-type-specific signalling response"
+ },
+ {  
+    "id":168,
+    "title":"Deep sequencing analysis of the early infection phase of hepatitis C virus"
+ },
+ {  
+    "id":169,
+    "title":"Dependable Auditing on Operations of in-Cloud Applications"
+ },
+ {  
+    "id":170,
+    "title":"Dependable Cloud Operations and Systems"
+ },
+ {  
+    "id":171,
+    "title":"Deployment of OpenCV for Embedded Systems and Multicore"
+ },
+ {  
+    "id":172,
+    "title":"DESIGN AND ARCHITECTURE OF VISUALIZATION SERVICE IN THE CYBERINFRACTURE WEB APPLICATION FRAMEWORK"
+ },
+ {  
+    "id":173,
+    "title":"Design and development of a Kinect-based 3D quantitative facial assessment tool for clinical practice"
+ },
+ {  
+    "id":174,
+    "title":"Design and Implementation of an Automated Software Verification Tool"
+ },
+ {  
+    "id":175,
+    "title":"Design and Implementation of Workflow for Content Management System"
+ },
+ {  
+    "id":176,
+    "title":"Design and Implementing Web Content Management System"
+ },
+ {  
+    "id":177,
+    "title":"Design of Digital Circuits for FPGA Fault Tolerance"
+ },
+ {  
+    "id":178,
+    "title":"Design of Synthetic Aperture Radar SAR Application Specific Instruction Set Processor ASIP"
+ },
+ {  
+    "id":179,
+    "title":"Designing a Better Authentication Model"
+ },
+ {  
+    "id":180,
+    "title":"Designing Adaptive Interfaces"
+ },
+ {  
+    "id":181,
+    "title":"Designing and implementing a memory-safe C language and its runtime library"
+ },
+ {  
+    "id":182,
+    "title":"Designing effective instructional animations"
+ },
+ {  
+    "id":183,
+    "title":"Designing Network-on-Chips for the ESLoC Platform"
+ },
+ {  
+    "id":184,
+    "title":"Desktop Quiz game for HRM"
+ },
+ {  
+    "id":185,
+    "title":"Detect Malodorous Software Pattern and Refactor them"
+ },
+ {  
+    "id":186,
+    "title":"Detecting Exaggerated Rankings in Online Reviews"
+ },
+ {  
+    "id":187,
+    "title":"Detecting software bug for Go programs"
+ },
+ {  
+    "id":188,
+    "title":"Detection of referrable stage of diabetic retinopathy in new retinal camera images"
+ },
+ {  
+    "id":189,
+    "title":"Determining Dolphin Species by Their Echolocation Clicks A Study of the Effects of Site Variability Noise And Recording Equipment Differences"
+ },
+ {  
+    "id":190,
+    "title":"Developing Google Android Application Using the RESTful Web-Services"
+ },
+ {  
+    "id":191,
+    "title":"Developing Google Android Mobile Clients for Web Services"
+ },
+ {  
+    "id":192,
+    "title":"Developing new methods for analysis of next generation genome sequencing data"
+ },
+ {  
+    "id":193,
+    "title":"Development of Json and Ajax enabled database driven user interfaces for science application portals"
+ },
+ {  
+    "id":194,
+    "title":"Dictionary Program PHP/MySQL Android"
+ },
+ {  
+    "id":195,
+    "title":"DLOOP A Flash Translation Layer Exploiting Intra-plane Copy-back Operations"
+ },
+ {  
+    "id":196,
+    "title":"Document Reader Interface Database and Admin Panel"
+ },
+ {  
+    "id":197,
+    "title":"Document Reader Interface Designing the GUI"
+ },
+ {  
+    "id":198,
+    "title":"Domain Specific Modelling Language Design for Model Driven Development"
+ },
+ {  
+    "id":199,
+    "title":"Drowsy and Decay Leakage Control for the Register File/Cache Memory Architecture"
+ },
+ {  
+    "id":200,
+    "title":"DTR Daily Time Record System"
+ },
+ {  
+    "id":201,
+    "title":"DTR Daily Time Record System with Biometrics"
+ },
+ {  
+    "id":202,
+    "title":"Dynamic program analysis for bug detection using static program slicing"
+ },
+ {  
+    "id":203,
+    "title":"Dynamic Projection of Data on Maps Based on Time-lines Client Side"
+ },
+ {  
+    "id":204,
+    "title":"E-commerce paypal integration"
+ },
+ {  
+    "id":205,
+    "title":"E-Learning System"
+ },
+ {  
+    "id":206,
+    "title":"E-voting system"
+ },
+ {  
+    "id":207,
+    "title":"E-Voting System with SMS technology"
+ },
+ {  
+    "id":208,
+    "title":"Ecommerce site – PHP/MySQL Joomla Wordpress"
+ },
+ {  
+    "id":209,
+    "title":"EDSL for data serialisation and de-serialisation"
+ },
+ {  
+    "id":210,
+    "title":"EDSL for mobile graphic apps"
+ },
+ {  
+    "id":211,
+    "title":"Educational Android Quiz game for Computer Fundamentals - Android"
+ },
+ {  
+    "id":212,
+    "title":"Effective Cross-Kernel Communication"
+ },
+ {  
+    "id":213,
+    "title":"Electronic Ordering System"
+ },
+ {  
+    "id":214,
+    "title":"Electronic Police Clearance System"
+ },
+ {  
+    "id":215,
+    "title":"Email based FAQ web application"
+ },
+ {  
+    "id":216,
+    "title":"Embedded algorithms for a low power wearable fall detector"
+ },
+ {  
+    "id":217,
+    "title":"Employee Ranking System"
+ },
+ {  
+    "id":218,
+    "title":"Encultured Agents for teaching culture"
+ },
+ {  
+    "id":219,
+    "title":"Enhanced AutoCAD Grading Application Back End Component"
+ },
+ {  
+    "id":220,
+    "title":"Enhanced AUTOCAD Grading Application Front End Component"
+ },
+ {  
+    "id":221,
+    "title":"Enhanced Mapping Application for SDSU Study Abroad Program"
+ },
+ {  
+    "id":222,
+    "title":"Enhancement of MC68000 Simulator Macros to Support Floating Point Number"
+ },
+ {  
+    "id":223,
+    "title":"Enhancing the Autonomous Robotic Person Detection and Following Using Modified Hough Transform"
+ },
+ {  
+    "id":224,
+    "title":"Enrollment System PHP/MySQL"
+ },
+ {  
+    "id":225,
+    "title":"Entrance Examination"
+ },
+ {  
+    "id":226,
+    "title":"Evaluation of Expert Diagnosis for Lung Diseases"
+ },
+ {  
+    "id":227,
+    "title":"Evaluation of Heterogeneous Communication Architecture for MPSoCs in ARGUS"
+ },
+ {  
+    "id":228,
+    "title":"Evaluation of Mapping Techniques for Heterogeneous MPSoCs for ARGUS"
+ },
+ {  
+    "id":229,
+    "title":"Evaluation System Faculty & Staff"
+ },
+ {  
+    "id":230,
+    "title":"Event Planner with SMS and Social Sharer Android"
+ },
+ {  
+    "id":231,
+    "title":"Evolution of Cricket and Comparison to Baseball"
+ },
+ {  
+    "id":232,
+    "title":"Evolution of Democracy in Europe"
+ },
+ {  
+    "id":233,
+    "title":"Evolution of EGF domains"
+ },
+ {  
+    "id":234,
+    "title":"Evolution of Redox-regulation of Cys Residues in Proteins"
+ },
+ {  
+    "id":235,
+    "title":"Evolution of transglutaminases from papain-like cysteine proteases"
+ },
+ {  
+    "id":236,
+    "title":"Examination Scheduler"
+ },
+ {  
+    "id":237,
+    "title":"Execution Monitoring for Robots"
+ },
+ {  
+    "id":238,
+    "title":"Exploiting the weakest link in high-security systems"
+ },
+ {  
+    "id":239,
+    "title":"Exploring Structural Properties and Consensus Performance in Complex Networks"
+ },
+ {  
+    "id":240,
+    "title":"Exploring the genotype/phenotype relationships in lamin A/C"
+ },
+ {  
+    "id":241,
+    "title":"Expressiveness of Distributed Systems"
+ },
+ {  
+    "id":242,
+    "title":"Face Detections"
+ },
+ {  
+    "id":243,
+    "title":"Face Recognition System"
+ },
+ {  
+    "id":244,
+    "title":"Facilitating Research with Learner Data in Online Speaking Test"
+ },
+ {  
+    "id":245,
+    "title":"Faculty Annual Report Maintenance Website"
+ },
+ {  
+    "id":246,
+    "title":"Faculty Information System"
+ },
+ {  
+    "id":247,
+    "title":"Fault Tolerance Platforms for Large-Scale Distributed Applications"
+ },
+ {  
+    "id":248,
+    "title":"Fault Tolerant Token Ring Network Design for SEU Recovery on Reconfigurable Hardware"
+ },
+ {  
+    "id":249,
+    "title":"Field Testing and Performance Evaluation of a Mobile-Platform-Based QR Code Reader for Multilingual Public Information Display Applications"
+ },
+ {  
+    "id":250,
+    "title":"Fine Grained Location Using Mobile Augmented Reality"
+ },
+ {  
+    "id":251,
+    "title":"Finger Position Data Acquisition System for Cross-Modal Tactile/Visual Cognition Studies"
+ },
+ {  
+    "id":252,
+    "title":"Fire and Smoke System with SMS notification"
+ },
+ {  
+    "id":253,
+    "title":"First person view system for a remote control aircraft"
+ },
+ {  
+    "id":254,
+    "title":"First-aid App for Android"
+ },
+ {  
+    "id":255,
+    "title":"Fish Information System"
+ },
+ {  
+    "id":256,
+    "title":"Fleet Monitoring via GPS GPRS/GSM using Huawei Modem"
+ },
+ {  
+    "id":257,
+    "title":"Flood Monitoring with GPRS TEch using Google Earth API"
+ },
+ {  
+    "id":258,
+    "title":"Formal modelling verification and analysis of wireless mesh networks"
+ },
+ {  
+    "id":259,
+    "title":"FPGA implementation of ASIP Processors"
+ },
+ {  
+    "id":260,
+    "title":"FPGA-based satellite flight computer"
+ },
+ {  
+    "id":261,
+    "title":"Functional verification of dynamic reconfiguration in Zynq FPGAs"
+ },
+ {  
+    "id":262,
+    "title":"Game AI Believeable Characters"
+ },
+ {  
+    "id":263,
+    "title":"Game AI Conversational behaviours"
+ },
+ {  
+    "id":264,
+    "title":"Game Design Game Feel"
+ },
+ {  
+    "id":265,
+    "title":"Game design Games for Vision Science"
+ },
+ {  
+    "id":266,
+    "title":"Game Design Procedural Level Generation"
+ },
+ {  
+    "id":267,
+    "title":"Game Design Project"
+ },
+ {  
+    "id":268,
+    "title":"Game interfaces Cognitive load adjustment"
+ },
+ {  
+    "id":269,
+    "title":"Gene regulatory network in embryonic organ development"
+ },
+ {  
+    "id":270,
+    "title":"General Game Playing for Security Games"
+ },
+ {  
+    "id":271,
+    "title":"General Game-Playing Robot"
+ },
+ {  
+    "id":272,
+    "title":"General Service Office Automated Inventory System"
+ },
+ {  
+    "id":273,
+    "title":"Generating Data for Relational Schemas"
+ },
+ {  
+    "id":274,
+    "title":"Generating Game-Specific Knowledge to Improve Monte Carlo Tree Search"
+ },
+ {  
+    "id":275,
+    "title":"Generation and Analysis of Finite Monoids with an Emphasis on Syntactic Monoids"
+ },
+ {  
+    "id":276,
+    "title":"Generic Log Analysis Tool"
+ },
+ {  
+    "id":277,
+    "title":"GENERIC TOPIC Programming Languages & Systems"
+ },
+ {  
+    "id":278,
+    "title":"Genome based molecular typing of pathogenic bacteria"
+ },
+ {  
+    "id":279,
+    "title":"Genome-wide chromatin landscape analysis of fungal epigenomes"
+ },
+ {  
+    "id":280,
+    "title":"Geographic Information System with Flood-Prone Location"
+ },
+ {  
+    "id":281,
+    "title":"Geolocation Project Google Gears API"
+ },
+ {  
+    "id":282,
+    "title":"Geospatial Information Extraction from Big Data Streams"
+ },
+ {  
+    "id":283,
+    "title":"Get Help Android App with GPS and Map"
+ },
+ {  
+    "id":284,
+    "title":"GIS application on modern Mexico"
+ },
+ {  
+    "id":285,
+    "title":"GIS Assisted History of Middle East Empires"
+ },
+ {  
+    "id":286,
+    "title":"GIS Based Application Tool History of East India Company"
+ },
+ {  
+    "id":287,
+    "title":"GIS Based Learning Tool for World's Largest Earthquakes and Its Cause"
+ },
+ {  
+    "id":288,
+    "title":"GIS based tool on Indian Independence Movement"
+ },
+ {  
+    "id":289,
+    "title":"GIS Learning Tool for Ottoman Empire"
+ },
+ {  
+    "id":290,
+    "title":"GIS Learning Tool for USA's Tallest Skyscrapers and Their Construction"
+ },
+ {  
+    "id":291,
+    "title":"GIS Multimedia Teaching Tool about Africa"
+ },
+ {  
+    "id":292,
+    "title":"GIS Multimedia Teaching Tool about the Mormon Battalion"
+ },
+ {  
+    "id":293,
+    "title":"GIS Multimedia View of Local Politics"
+ },
+ {  
+    "id":294,
+    "title":"GIS Tool for California State Legislature Electoral History"
+ },
+ {  
+    "id":295,
+    "title":"GIS Tool for Chinese Diaspora"
+ },
+ {  
+    "id":296,
+    "title":"GIS Tool for Learning about Ottoman Empire"
+ },
+ {  
+    "id":297,
+    "title":"GIS Tool for Learning about Russian Empire"
+ },
+ {  
+    "id":298,
+    "title":"GIS Tool for US Possessions"
+ },
+ {  
+    "id":299,
+    "title":"GIS Tool on Fuel Resources of the American Continent"
+ },
+ {  
+    "id":300,
+    "title":"GIS Tool Showing Emperors Wars and Important Battles During the Rise and Fall of Roman Empire"
+ },
+ {  
+    "id":301,
+    "title":"GIS Tool to Demonstrate Freeway Evolution in San Diego"
+ },
+ {  
+    "id":302,
+    "title":"GIS Tool to Locate Sikh Temples in US"
+ },
+ {  
+    "id":303,
+    "title":"GIS Tri-Lingual Tool for Learning about South and Central America"
+ },
+ {  
+    "id":304,
+    "title":"GIS-based Interactive Tool to Map the Advent of World Conquerors"
+ },
+ {  
+    "id":305,
+    "title":"GIS-Based Seismic Damage Assessment"
+ },
+ {  
+    "id":306,
+    "title":"GPS Tracking System"
+ },
+ {  
+    "id":307,
+    "title":"Grade Viewer Application in Android"
+ },
+ {  
+    "id":308,
+    "title":"Grading System /MySQL"
+ },
+ {  
+    "id":309,
+    "title":"Grid Navigation & Path Planning Algorithm Using a Proposed New Greedy Approach"
+ },
+ {  
+    "id":310,
+    "title":"Group Messenger Application using Android"
+ },
+ {  
+    "id":311,
+    "title":"GSR Sensor with Android App"
+ },
+ {  
+    "id":312,
+    "title":"Hardware design for Power Anlaysis Attacks in Embedded Systems"
+ },
+ {  
+    "id":313,
+    "title":"Hardware development on the ESLoC Multiprocessor Platform"
+ },
+ {  
+    "id":314,
+    "title":"Hardware interconnect development for Modern Caches and Processors"
+ },
+ {  
+    "id":315,
+    "title":"Herbal Plants Information System"
+ },
+ {  
+    "id":316,
+    "title":"High School Grade Recording System Form 138 & Form 137"
+ },
+ {  
+    "id":317,
+    "title":"High-Level Control Programs for Baxter Robot"
+ },
+ {  
+    "id":318,
+    "title":"Highly Interactive Web Services"
+ },
+ {  
+    "id":319,
+    "title":"Holistic Computerized Faculty Evaluation System"
+ },
+ {  
+    "id":320,
+    "title":"Home Appliances controlled by Android Smartphone"
+ },
+ {  
+    "id":321,
+    "title":"Hospital system"
+ },
+ {  
+    "id":322,
+    "title":"Hotel and Reservation System PHP/MySQL"
+ },
+ {  
+    "id":323,
+    "title":"Hotel management system"
+ },
+ {  
+    "id":324,
+    "title":"Hotel Reservation Application with Mobile Compatibility in Android"
+ },
+ {  
+    "id":325,
+    "title":"Hotel reservation system"
+ },
+ {  
+    "id":326,
+    "title":"Human Resource Information System HRIS"
+ },
+ {  
+    "id":327,
+    "title":"Human Resource Management System"
+ },
+ {  
+    "id":328,
+    "title":"Iberian Exploration Seen Through GIS"
+ },
+ {  
+    "id":329,
+    "title":"Identification and resolution of issues in systems security"
+ },
+ {  
+    "id":330,
+    "title":"Identification of Alternative Translation Initiation Sites Bioinformatic Analysis of Mammalian 5' UTR Location Prediction of Start Sites"
+ },
+ {  
+    "id":331,
+    "title":"IGP Billing System"
+ },
+ {  
+    "id":332,
+    "title":"Image Edge Detection Using Ant Colony Optimization Algorithm"
+ },
+ {  
+    "id":333,
+    "title":"Implementation of DTW Algorithm for Application Security"
+ },
+ {  
+    "id":334,
+    "title":"Implementation of Identity Discovery as a Service Provided By Third Party Authentication Server"
+ },
+ {  
+    "id":335,
+    "title":"Implementation of Strong Invariance on ACO Algorithms And Optimized Routing of Data Packets in Wired Networks"
+ },
+ {  
+    "id":336,
+    "title":"Implementing processor cores on FPGAs"
+ },
+ {  
+    "id":337,
+    "title":"Importance of Metadata in Data Warehousing"
+ },
+ {  
+    "id":338,
+    "title":"Improved User Interface to Display and Edit Multiple Files and Folders"
+ },
+ {  
+    "id":339,
+    "title":"Incredible India GIS Based Application Tool"
+ },
+ {  
+    "id":340,
+    "title":"Incremental program analysis for software testing"
+ },
+ {  
+    "id":341,
+    "title":"Indoor Mapping and Localisation with Google Tango"
+ },
+ {  
+    "id":342,
+    "title":"Information Extraction from Seminar Notices"
+ },
+ {  
+    "id":343,
+    "title":"Information flow analysis for mobile applications"
+ },
+ {  
+    "id":344,
+    "title":"Integration of Simplescalar and McPAT for Multiprocessor platforms"
+ },
+ {  
+    "id":345,
+    "title":"Integrative analysis of histone-modifying enzymes' expression program"
+ },
+ {  
+    "id":346,
+    "title":"Intelligent Indoor Localisation and Navigation with Smart Glass"
+ },
+ {  
+    "id":347,
+    "title":"Intelligent Object Recognition in Smart Glass"
+ },
+ {  
+    "id":348,
+    "title":"Intelligent Traveler Locator using Google Map Application"
+ },
+ {  
+    "id":349,
+    "title":"Interactive Graphical Interface for Printed Glycan Array Data Analysis"
+ },
+ {  
+    "id":350,
+    "title":"Interactive Spelling Game Android"
+ },
+ {  
+    "id":351,
+    "title":"Interactive World Map Man Made Disasters"
+ },
+ {  
+    "id":352,
+    "title":"Interactive World Map Natural Disasters"
+ },
+ {  
+    "id":353,
+    "title":"Internet Cafe System"
+ },
+ {  
+    "id":354,
+    "title":"Interpreting a formal security protocol language in an epistemic model checker"
+ },
+ {  
+    "id":355,
+    "title":"Interrupt-Related Covert Channels on seL4"
+ },
+ {  
+    "id":356,
+    "title":"Investigating the Use of Microsoft Kinect 3D Imaging for Robotic Person Following"
+ },
+ {  
+    "id":357,
+    "title":"iPad app for cardiopulmonary resusciation"
+ },
+ {  
+    "id":358,
+    "title":"iPhone Application Development"
+ },
+ {  
+    "id":359,
+    "title":"Job Recommendation Algorithms"
+ },
+ {  
+    "id":360,
+    "title":"JPEG to STL Translation Software for Color/Texture Mapping in Support of 3D Printing of Surfaces Used in Visual/Tactile Cross-Modal Cognitive Neuroscience Research"
+ },
+ {  
+    "id":361,
+    "title":"K-Means Clustering with Automatic Determination of K Using a Multi-Objective Genetic Algorithm with Applications to Microarray Gene Expression Data"
+ },
+ {  
+    "id":362,
+    "title":"Kinect Mouse with Voice Recognition"
+ },
+ {  
+    "id":363,
+    "title":"Knowledge Based Analysis of a Distributed Protocol"
+ },
+ {  
+    "id":364,
+    "title":"Lan-based Computer Games for Fisheries"
+ },
+ {  
+    "id":365,
+    "title":"Language Support for GPU Programming"
+ },
+ {  
+    "id":366,
+    "title":"LARC Resources LIB"
+ },
+ {  
+    "id":367,
+    "title":"Lazada Like App for Android"
+ },
+ {  
+    "id":368,
+    "title":"Leaderless Byzantine Paxos"
+ },
+ {  
+    "id":369,
+    "title":"Learning Languages from archival material"
+ },
+ {  
+    "id":370,
+    "title":"Lending Management system"
+ },
+ {  
+    "id":371,
+    "title":"Library and Computer Time Usage System"
+ },
+ {  
+    "id":372,
+    "title":"library system"
+ },
+ {  
+    "id":373,
+    "title":"Library System PHP/MySQL"
+ },
+ {  
+    "id":374,
+    "title":"Literature review on formal modelling and verification for embedded medical systems"
+ },
+ {  
+    "id":375,
+    "title":"LLVM Compiler for Novel Processor"
+ },
+ {  
+    "id":376,
+    "title":"Loaning System"
+ },
+ {  
+    "id":377,
+    "title":"Local Points of Interest Using Augmented Reality"
+ },
+ {  
+    "id":378,
+    "title":"Local Search Techniques for General Single-Player Games"
+ },
+ {  
+    "id":379,
+    "title":"Location Based Chat Application for iPhone"
+ },
+ {  
+    "id":380,
+    "title":"Location Based Computerized Multimedia Presentation of Theodore Roosevelt's Life History"
+ },
+ {  
+    "id":381,
+    "title":"Location Based Interactive Learning Tool on Life History of Midge Costanza"
+ },
+ {  
+    "id":382,
+    "title":"Lower bounds for extremal vertex sets in graphs"
+ },
+ {  
+    "id":383,
+    "title":"Making a Flash Translation Layer Reliability-Aware An Optimized Strategy for Wear-Leveling and Garbage-Collection"
+ },
+ {  
+    "id":384,
+    "title":"Managing Risk in using Cloud Services"
+ },
+ {  
+    "id":385,
+    "title":"Many-core simulator implementation"
+ },
+ {  
+    "id":386,
+    "title":"Map Based Multimedia Tool on Pacific Theatre in World War II"
+ },
+ {  
+    "id":387,
+    "title":"Map Based Teacher Credentialing in the United States Client Side"
+ },
+ {  
+    "id":388,
+    "title":"Map Based Teacher Credentialing in the United StatesServer Side"
+ },
+ {  
+    "id":389,
+    "title":"Mapping Application for LARC Study Abroad Program"
+ },
+ {  
+    "id":390,
+    "title":"Mapping Engine to calculate trends in chatter in social media"
+ },
+ {  
+    "id":391,
+    "title":"Mapping of Zn fingers in the brain"
+ },
+ {  
+    "id":392,
+    "title":"Matching Algorithms for Recommendation in Online Dating"
+ },
+ {  
+    "id":393,
+    "title":"Matching Words and Pictures Cross-modal Multimedia Web Infomation Aggregation"
+ },
+ {  
+    "id":394,
+    "title":"Math Games"
+ },
+ {  
+    "id":395,
+    "title":"Math Games for Algebra"
+ },
+ {  
+    "id":396,
+    "title":"Measure and Conquer for Efficient Edge Domination"
+ },
+ {  
+    "id":397,
+    "title":"Media Asset Database for SDSU School of Art Design and Art History"
+ },
+ {  
+    "id":398,
+    "title":"Medical and Dental Record Management System"
+ },
+ {  
+    "id":399,
+    "title":"Medical and Laboratory Record Keeping System PHP/MySQL"
+ },
+ {  
+    "id":400,
+    "title":"Medical records system"
+ },
+ {  
+    "id":401,
+    "title":"Medicine Inventory and Patient Information system"
+ },
+ {  
+    "id":402,
+    "title":"Message-passing vs migrating threads"
+ },
+ {  
+    "id":403,
+    "title":"Mobile Application for Business Card Capture"
+ },
+ {  
+    "id":404,
+    "title":"Mobile desktop PC Remote"
+ },
+ {  
+    "id":405,
+    "title":"Mobile Educational Application for Elementary Student using Android"
+ },
+ {  
+    "id":406,
+    "title":"Mobile Friendly Web App for CS Department"
+ },
+ {  
+    "id":407,
+    "title":"Mobile Health Tips using Android"
+ },
+ {  
+    "id":408,
+    "title":"Mobile inventory"
+ },
+ {  
+    "id":409,
+    "title":"Mobile PDF Conversion Application for the Android Platform"
+ },
+ {  
+    "id":410,
+    "title":"Mobile Pharmacy Application in Android"
+ },
+ {  
+    "id":411,
+    "title":"Mobile Point-Of-Sale Application with SMS Notification"
+ },
+ {  
+    "id":412,
+    "title":"Mobile Real Estate Agent for Android"
+ },
+ {  
+    "id":413,
+    "title":"Mobile Real Estate Agent for iPhone"
+ },
+ {  
+    "id":414,
+    "title":"Mobile Reservation for Banquet Halls"
+ },
+ {  
+    "id":415,
+    "title":"Mobile Store Management System"
+ },
+ {  
+    "id":416,
+    "title":"Mobile Ticketing via SMS gateway using Clickatell"
+ },
+ {  
+    "id":417,
+    "title":"Mobile Voting"
+ },
+ {  
+    "id":418,
+    "title":"Mobile Voting System using Android"
+ },
+ {  
+    "id":419,
+    "title":"Model Checking Tool Suite for Protocol Development"
+ },
+ {  
+    "id":420,
+    "title":"Modelling and Analysing Financial Market Datasets"
+ },
+ {  
+    "id":421,
+    "title":"Modelling and Manipulating Genealogical Data"
+ },
+ {  
+    "id":422,
+    "title":"Modelling Network Routing Protocols"
+ },
+ {  
+    "id":423,
+    "title":"Molecular mimicry in viruses and cancer"
+ },
+ {  
+    "id":424,
+    "title":"Motorcycle Tracking with GPS using Android"
+ },
+ {  
+    "id":425,
+    "title":"Movement detection with SMS Alert IP cam CCTV"
+ },
+ {  
+    "id":426,
+    "title":"Multi-core Automated Software Verification"
+ },
+ {  
+    "id":427,
+    "title":"Multi-valued Decision Diagram Package"
+ },
+ {  
+    "id":428,
+    "title":"Multicore Embedded System Design for Space Applications"
+ },
+ {  
+    "id":429,
+    "title":"Multimedia Survey Of Colonial India"
+ },
+ {  
+    "id":430,
+    "title":"NeevEngine Using XNA Game Studio for Serious Game Design and Development"
+ },
+ {  
+    "id":431,
+    "title":"New Measurement Techniques for a Science of Networks"
+ },
+ {  
+    "id":432,
+    "title":"NewsMap On The Go"
+ },
+ {  
+    "id":433,
+    "title":"Noteworthy Scientists and Inventors An Interactive Learning Tool"
+ },
+ {  
+    "id":434,
+    "title":"On customization of Embedded Processor Systems"
+ },
+ {  
+    "id":435,
+    "title":"On degrees of nondeterminism in finite automata and related concepts"
+ },
+ {  
+    "id":436,
+    "title":"On Memroy Data Protection for Embedded Processor Systems"
+ },
+ {  
+    "id":437,
+    "title":"On Modeling Emergent Neocortical Complexity with Complex Adaptive Systems"
+ },
+ {  
+    "id":438,
+    "title":"On Route Travel Assistant for Public Transport Based on Android Technology"
+ },
+ {  
+    "id":439,
+    "title":"On the potential of big Advertisement players in the ads targeting business"
+ },
+ {  
+    "id":440,
+    "title":"On-chip networks for reconfigurable and many-core computing"
+ },
+ {  
+    "id":441,
+    "title":"On-line courseware"
+ },
+ {  
+    "id":442,
+    "title":"On-line Exercises for WebCMS"
+ },
+ {  
+    "id":443,
+    "title":"Online Alumni Information System - PHP/MySQL Joomla"
+ },
+ {  
+    "id":444,
+    "title":"Online bidding system"
+ },
+ {  
+    "id":445,
+    "title":"Online billing system"
+ },
+ {  
+    "id":446,
+    "title":"Online class scheduling system"
+ },
+ {  
+    "id":447,
+    "title":"Online Financial Independence Score"
+ },
+ {  
+    "id":448,
+    "title":"Online Grade Inquiry"
+ },
+ {  
+    "id":449,
+    "title":"Online Grading System"
+ },
+ {  
+    "id":450,
+    "title":"Online hotel reservation system"
+ },
+ {  
+    "id":451,
+    "title":"Online inventory system"
+ },
+ {  
+    "id":452,
+    "title":"Online Lot Reservation"
+ },
+ {  
+    "id":453,
+    "title":"Online management system"
+ },
+ {  
+    "id":454,
+    "title":"Online membership and billing system"
+ },
+ {  
+    "id":455,
+    "title":"Online ordering system"
+ },
+ {  
+    "id":456,
+    "title":"Online payroll system"
+ },
+ {  
+    "id":457,
+    "title":"Online Portal for San Diego County"
+ },
+ {  
+    "id":458,
+    "title":"Online POS Point of Sale"
+ },
+ {  
+    "id":459,
+    "title":"Online Product Reservation System"
+ },
+ {  
+    "id":460,
+    "title":"Online public access catalog"
+ },
+ {  
+    "id":461,
+    "title":"Online Reservation"
+ },
+ {  
+    "id":462,
+    "title":"Online Shopping Cart"
+ },
+ {  
+    "id":463,
+    "title":"Online Tracking Google Map"
+ },
+ {  
+    "id":464,
+    "title":"Online voting system"
+ },
+ {  
+    "id":465,
+    "title":"OpenCL backend for Accelerate"
+ },
+ {  
+    "id":466,
+    "title":"Optimization of Multi-view Video Coding MVC"
+ },
+ {  
+    "id":467,
+    "title":"Order Billing Inventory System"
+ },
+ {  
+    "id":468,
+    "title":"Parallel Computation of Functions on Set Partitions"
+ },
+ {  
+    "id":469,
+    "title":"Parallel Programming on a GPU Using Intel Array Building Blocks"
+ },
+ {  
+    "id":470,
+    "title":"Parameterized Algorithm for k-Leaf Spanning Tree"
+ },
+ {  
+    "id":471,
+    "title":"Parameterized Algorithms for Backdoor Detection"
+ },
+ {  
+    "id":472,
+    "title":"PARE A Partial Replication Strategy Adaptive to Movie Popularity Changes for Video-on-Demand Servers"
+ },
+ {  
+    "id":473,
+    "title":"Parish Record Keeping System"
+ },
+ {  
+    "id":474,
+    "title":"Parking Lot system RFID"
+ },
+ {  
+    "id":475,
+    "title":"Path Planning in Planar Environments using Triangulations"
+ },
+ {  
+    "id":476,
+    "title":"Patient Record System with Decision Support"
+ },
+ {  
+    "id":477,
+    "title":"Payment Checkout System for Online Testing Tool CAST"
+ },
+ {  
+    "id":478,
+    "title":"Payroll system"
+ },
+ {  
+    "id":479,
+    "title":"Payroll System with Biometric and Barcode Technology"
+ },
+ {  
+    "id":480,
+    "title":"Payroll System"
+ },
+ {  
+    "id":481,
+    "title":"PE Tools Management System"
+ },
+ {  
+    "id":482,
+    "title":"People to People Recommendation in Social Networks"
+ },
+ {  
+    "id":483,
+    "title":"Performance Evaluation of Reconfigurable Control Network"
+ },
+ {  
+    "id":484,
+    "title":"Performance profiling of scientific simulation programs on heterogeneous systems"
+ },
+ {  
+    "id":485,
+    "title":"Pharmacy Automation System"
+ },
+ {  
+    "id":486,
+    "title":"Pharmacy Management System"
+ },
+ {  
+    "id":487,
+    "title":"Picture Guessing Game"
+ },
+ {  
+    "id":488,
+    "title":"Picture Guessing Game"
+ },
+ {  
+    "id":489,
+    "title":"Plant Leaf Recognition and Matching with MATLAB"
+ },
+ {  
+    "id":490,
+    "title":"Platform Independent Experimentation Workbench for Unimodal/Cross-Modal Priming Studies"
+ },
+ {  
+    "id":491,
+    "title":"Polling System"
+ },
+ {  
+    "id":492,
+    "title":"POS and Inventory System Version 2 Version 3"
+ },
+ {  
+    "id":493,
+    "title":"Post-Secondary Indian Isolation Selection Tool"
+ },
+ {  
+    "id":494,
+    "title":"PPP Parallel Parity Processing Based on Multiple Parity Channels"
+ },
+ {  
+    "id":495,
+    "title":"Precise and efficient pointer analysis for Javascript programs"
+ },
+ {  
+    "id":496,
+    "title":"Privacy threats in online social networks"
+ },
+ {  
+    "id":497,
+    "title":"Privacy-Aware Smart-Grid Monitoring"
+ },
+ {  
+    "id":498,
+    "title":"Privacy-preserving cloud services for Internet of Things"
+ },
+ {  
+    "id":499,
+    "title":"Privacy-Preserving Mobile Data Processing"
+ },
+ {  
+    "id":500,
+    "title":"Privacy-Preserving Recommendations Systems Are users' choices biased by the recommendations systems themselves The chicken or the Egg problem"
+ },
+ {  
+    "id":501,
+    "title":"Pro Bono Law Resource Centre Database"
+ },
+ {  
+    "id":502,
+    "title":"Process and Service Mashup on Mobile Platform"
+ },
+ {  
+    "id":503,
+    "title":"Processor Prototyping for Automobile Application"
+ },
+ {  
+    "id":504,
+    "title":"Product Tracker Android App with Map"
+ },
+ {  
+    "id":505,
+    "title":"Product Tracker with Google Map Android"
+ },
+ {  
+    "id":506,
+    "title":"Production Line Modeling A Simplified Approach Based on Theory of Constraints"
+ },
+ {  
+    "id":507,
+    "title":"Professor Pages Easy Course Website Maintenance"
+ },
+ {  
+    "id":508,
+    "title":"Protected-Mode eChronos"
+ },
+ {  
+    "id":509,
+    "title":"QB50 satellite payload implementation"
+ },
+ {  
+    "id":510,
+    "title":"Quantitative Risk Management Methods in Software and Systems Projects"
+ },
+ {  
+    "id":511,
+    "title":"Qubes on seL4"
+ },
+ {  
+    "id":512,
+    "title":"Quiz Application using Android"
+ },
+ {  
+    "id":513,
+    "title":"Rapid Decision Tool to Predict Earthquake Destruction in Sumatra Using First Motion Survey"
+ },
+ {  
+    "id":514,
+    "title":"Rater Notification System for Computerized Assisted Screening Tool"
+ },
+ {  
+    "id":515,
+    "title":"Re-architecting WebCMS"
+ },
+ {  
+    "id":516,
+    "title":"Real-time abnormal activity detection in surveillance systems"
+ },
+ {  
+    "id":517,
+    "title":"Real-time suspects detection in video surveillance systems"
+ },
+ {  
+    "id":518,
+    "title":"Reasoning About Actions in Imperfect-Information Games"
+ },
+ {  
+    "id":519,
+    "title":"Recognising Lung features in HRCT"
+ },
+ {  
+    "id":520,
+    "title":"Reconfigurable Computing Literature Survey"
+ },
+ {  
+    "id":521,
+    "title":"Record management system"
+ },
+ {  
+    "id":522,
+    "title":"Registrar System"
+ },
+ {  
+    "id":523,
+    "title":"Registration and Synchronized Visualization of Multi-Modal 3D Magnetic Resonance Images"
+ },
+ {  
+    "id":524,
+    "title":"Religions in the Middle East"
+ },
+ {  
+    "id":525,
+    "title":"Report Generator & Server Database"
+ },
+ {  
+    "id":526,
+    "title":"Research Portal Builder"
+ },
+ {  
+    "id":527,
+    "title":"Resilient and Reliable Distributed Systems"
+ },
+ {  
+    "id":528,
+    "title":"Resort Management System"
+ },
+ {  
+    "id":529,
+    "title":"Resource Allocation Framework"
+ },
+ {  
+    "id":530,
+    "title":"RFID DTR System"
+ },
+ {  
+    "id":531,
+    "title":"RFID-Based Student Monitoring System"
+ },
+ {  
+    "id":532,
+    "title":"Rice Sales and Inventory System"
+ },
+ {  
+    "id":533,
+    "title":"RNA-seq with different read length"
+ },
+ {  
+    "id":534,
+    "title":"Road traffic estimation via wireless communication"
+ },
+ {  
+    "id":535,
+    "title":"RoboCup Standard League"
+ },
+ {  
+    "id":536,
+    "title":"Robot Learning"
+ },
+ {  
+    "id":537,
+    "title":"Robot Soccer"
+ },
+ {  
+    "id":538,
+    "title":"Robotic Person Following in a Crowd Using Infrared and Vision Sensors"
+ },
+ {  
+    "id":539,
+    "title":"Robots for Urban Search and Rescue"
+ },
+ {  
+    "id":540,
+    "title":"Robust CSV to ShapeFile Utility and DBF File Interpreter"
+ },
+ {  
+    "id":541,
+    "title":"Robust Recommender Systems"
+ },
+ {  
+    "id":542,
+    "title":"Runtime Mapping of Tasks for the ARGUS Multicore Platform"
+ },
+ {  
+    "id":543,
+    "title":"Safety Notification Broadcast System"
+ },
+ {  
+    "id":544,
+    "title":"Sales and Inventory Monitoring System with SMS"
+ },
+ {  
+    "id":545,
+    "title":"Salon System"
+ },
+ {  
+    "id":546,
+    "title":"School Event Attendance Monitoring System with Biometric and Barcode Technology"
+ },
+ {  
+    "id":547,
+    "title":"School Locator using Android"
+ },
+ {  
+    "id":548,
+    "title":"School Management System Enrollment Registrar Cashiering Student Information Module"
+ },
+ {  
+    "id":549,
+    "title":"Science Games Android"
+ },
+ {  
+    "id":550,
+    "title":"SDSU Dining An Android Mobile Application Solution for SDSU Dining Services"
+ },
+ {  
+    "id":551,
+    "title":"SDSU Ebuddy"
+ },
+ {  
+    "id":552,
+    "title":"SDSU Goggles Android Based Application"
+ },
+ {  
+    "id":553,
+    "title":"SDSUHood"
+ },
+ {  
+    "id":554,
+    "title":"Secure network OS for SDN"
+ },
+ {  
+    "id":555,
+    "title":"Secure terminal on seL4"
+ },
+ {  
+    "id":556,
+    "title":"Security Analysis of Multicore Systems"
+ },
+ {  
+    "id":557,
+    "title":"Security Vulnerabilities in PHP Applications"
+ },
+ {  
+    "id":558,
+    "title":"seL4 AUTOSAR"
+ },
+ {  
+    "id":559,
+    "title":"seL4-based Distributed Capability Systems"
+ },
+ {  
+    "id":560,
+    "title":"Semantic Mapping with Mobile Robots"
+ },
+ {  
+    "id":561,
+    "title":"Sensor networks with nano fibre"
+ },
+ {  
+    "id":562,
+    "title":"Shared resources in an seL4-based OS"
+ },
+ {  
+    "id":563,
+    "title":"Shortest path calculation for public transport planning"
+ },
+ {  
+    "id":564,
+    "title":"Simple Tools to Convert Oracle Spatial Tables to ESRI Shape Files"
+ },
+ {  
+    "id":565,
+    "title":"Simulated bionic vision using a Kinect system for depth mapping"
+ },
+ {  
+    "id":566,
+    "title":"Sloth vs eChronos"
+ },
+ {  
+    "id":567,
+    "title":"Smart Home"
+ },
+ {  
+    "id":568,
+    "title":"SMART Vendo Loading Machine"
+ },
+ {  
+    "id":569,
+    "title":"Smartphone and Android Internals"
+ },
+ {  
+    "id":570,
+    "title":"Smartphone app for activity classification and fall detection"
+ },
+ {  
+    "id":571,
+    "title":"SMS billing- Payment using Smartmoney"
+ },
+ {  
+    "id":572,
+    "title":"SMS Grading System Globe Labs"
+ },
+ {  
+    "id":573,
+    "title":"SMS Marketing Software Bulk sending- email to SMS"
+ },
+ {  
+    "id":574,
+    "title":"SMS-Based Grade Inquiry System"
+ },
+ {  
+    "id":575,
+    "title":"SNOMED-based Surgical Audit tool"
+ },
+ {  
+    "id":576,
+    "title":"Social network analysis of viral infections in prison settings"
+ },
+ {  
+    "id":577,
+    "title":"Social networking"
+ },
+ {  
+    "id":578,
+    "title":"Social Networking System - PHP/MySQL Joomla"
+ },
+ {  
+    "id":579,
+    "title":"Soft Error Testing with Deploying Processors in Space"
+ },
+ {  
+    "id":580,
+    "title":"Software for computing graph parameters"
+ },
+ {  
+    "id":581,
+    "title":"Software tool for code partitioning using LLVM/CLANG"
+ },
+ {  
+    "id":582,
+    "title":"Software update and implementation of multiprocessor simulation in sim-cache"
+ },
+ {  
+    "id":583,
+    "title":"Solving General Single-Player Games with Constraint Programming"
+ },
+ {  
+    "id":584,
+    "title":"Solving Inverse Kinematics Problems by Decomposition Classification and Simple Modeling"
+ },
+ {  
+    "id":585,
+    "title":"Solving Inverse Problems by Decomposition Classification and Simple Modeling Extension to Ill-conditioned Cases"
+ },
+ {  
+    "id":586,
+    "title":"Solving the Course Scheduling Problem"
+ },
+ {  
+    "id":587,
+    "title":"Southern Area International Languages Network SITE SAILN"
+ },
+ {  
+    "id":588,
+    "title":"Space Based Tracking of Aircraft on CubeSats"
+ },
+ {  
+    "id":589,
+    "title":"SSG Management System with SMS Notification"
+ },
+ {  
+    "id":590,
+    "title":"Stability of matchings"
+ },
+ {  
+    "id":591,
+    "title":"Static and dynamic analysis for finding bugs in Javascript programs"
+ },
+ {  
+    "id":592,
+    "title":"Static and dynamic data races detection for C/C++ programs"
+ },
+ {  
+    "id":593,
+    "title":"Stochastic Computing for Fault Tolerant Systems"
+ },
+ {  
+    "id":594,
+    "title":"Student Account and Cashiering System"
+ },
+ {  
+    "id":595,
+    "title":"Student Assessment System"
+ },
+ {  
+    "id":596,
+    "title":"Student Attendance Monitoring System w/ SMS Alert using GSM modem"
+ },
+ {  
+    "id":597,
+    "title":"Student Information System"
+ },
+ {  
+    "id":598,
+    "title":"Student Montiring using Fingerprint with SMS alert to parents/Guardian using Digital Persona"
+ },
+ {  
+    "id":599,
+    "title":"Student Profiling in Guidance Office PHP/MySQL"
+ },
+ {  
+    "id":600,
+    "title":"Super Mario Galaxy problem"
+ },
+ {  
+    "id":601,
+    "title":"Supply inventory system"
+ },
+ {  
+    "id":602,
+    "title":"Symbolic execution for detecting system bugs on binary code"
+ },
+ {  
+    "id":603,
+    "title":"Syncing Text with the Audio for Media Access"
+ },
+ {  
+    "id":604,
+    "title":"Tablet-based Control Interface for Distributed Systems Deployment"
+ },
+ {  
+    "id":605,
+    "title":"Talking to Robots"
+ },
+ {  
+    "id":606,
+    "title":"Teacher Credentialing in California"
+ },
+ {  
+    "id":607,
+    "title":"Telehealth architecture for Android platform using HTML5"
+ },
+ {  
+    "id":608,
+    "title":"TeleHealth Nexus between Wireless Health Network and Biometric Data"
+ },
+ {  
+    "id":609,
+    "title":"Teller’s Queuing System using Barcode Technology"
+ },
+ {  
+    "id":610,
+    "title":"Teller’s Queuing System using Barcode Technology"
+ },
+ {  
+    "id":611,
+    "title":"Testpad a Mobile Based Performance Assessment Tool for Language Learners"
+ },
+ {  
+    "id":612,
+    "title":"Text Classification using Machine Learning"
+ },
+ {  
+    "id":613,
+    "title":"The effect of antigen presentation on the T cell mediated immune response"
+ },
+ {  
+    "id":614,
+    "title":"The Overlapping Variation Method Algorithm"
+ },
+ {  
+    "id":615,
+    "title":"The potential of Recommender Systems to breach user privacy in P2P"
+ },
+ {  
+    "id":616,
+    "title":"The Real Time Interactive Interface for Spatial Economic Modeling"
+ },
+ {  
+    "id":617,
+    "title":"The Singing Bee"
+ },
+ {  
+    "id":618,
+    "title":"The Singing Bee with Voice Recognition Android"
+ },
+ {  
+    "id":619,
+    "title":"Theorem Proving for General Game Playing"
+ },
+ {  
+    "id":620,
+    "title":"Thesis Archiving System"
+ },
+ {  
+    "id":621,
+    "title":"Third party tracking in mobile environment"
+ },
+ {  
+    "id":622,
+    "title":"Time line help package for map objects"
+ },
+ {  
+    "id":623,
+    "title":"Timed Process Algebra for Wireless Mesh Networks"
+ },
+ {  
+    "id":624,
+    "title":"TimeLine Feature Package for MapObjects Java Edition"
+ },
+ {  
+    "id":625,
+    "title":"Touch-Screen Based Point-Of-Sale System POS"
+ },
+ {  
+    "id":626,
+    "title":"Tourist Guide Android"
+ },
+ {  
+    "id":627,
+    "title":"Traffic APrking Management PDA based using Windows Mobile 6"
+ },
+ {  
+    "id":628,
+    "title":"Traffic Guide Android"
+ },
+ {  
+    "id":629,
+    "title":"Twitter Data Analysis"
+ },
+ {  
+    "id":630,
+    "title":"US Senator Election History An Android Application"
+ },
+ {  
+    "id":631,
+    "title":"Understanding and Improving Operational Processes in Large-scale Distributed Systems"
+ },
+ {  
+    "id":632,
+    "title":"UNSW Course Advisor"
+ },
+ {  
+    "id":633,
+    "title":"US House Electoral Data- GIS Based Application Tool"
+ },
+ {  
+    "id":634,
+    "title":"Usability Testing of Android Applications"
+ },
+ {  
+    "id":635,
+    "title":"Use of next generation sequencing to analyse genome evolution in infectious and genetic diseases"
+ },
+ {  
+    "id":636,
+    "title":"Using GPUs to solve challenging optimization problem"
+ },
+ {  
+    "id":637,
+    "title":"Using Machine Learning to Model Connections between Poli tical Competition and International Conflict"
+ },
+ {  
+    "id":638,
+    "title":"Using Speech to Play Games"
+ },
+ {  
+    "id":639,
+    "title":"Vendo Pharma / Prescribing Machine / 24/7-"
+ },
+ {  
+    "id":640,
+    "title":"Vendo Projects"
+ },
+ {  
+    "id":641,
+    "title":"Verification framework for concurrent C programs"
+ },
+ {  
+    "id":642,
+    "title":"Verification of Secure Transaction Protocols"
+ },
+ {  
+    "id":643,
+    "title":"Verifying concurrent programs running on a real-time OS"
+ },
+ {  
+    "id":644,
+    "title":"Veterinary Clinic and Pet Shop Management System"
+ },
+ {  
+    "id":645,
+    "title":"Video Library Management System"
+ },
+ {  
+    "id":646,
+    "title":"Video Rental Application in Android"
+ },
+ {  
+    "id":647,
+    "title":"Video Upload Tool with Subtitling Feature"
+ },
+ {  
+    "id":648,
+    "title":"Virtual Bulletin Board for Off-Campus Housing"
+ },
+ {  
+    "id":649,
+    "title":"Vision Based Robotic Person Following Using an Improved Image Segmentation Approach"
+ },
+ {  
+    "id":650,
+    "title":"Visitor Log Monitoring System"
+ },
+ {  
+    "id":651,
+    "title":"Visualization of the Deformation of Planet Due to Tidal Forces Using XNA Programming Framework"
+ },
+ {  
+    "id":652,
+    "title":"Voice Command with bluetooth using Direct Object Speech library"
+ },
+ {  
+    "id":653,
+    "title":"Voice Revolution Anrdoid Game"
+ },
+ {  
+    "id":654,
+    "title":"Voice Search for Locations using Google Maps"
+ },
+ {  
+    "id":655,
+    "title":"Voting System"
+ },
+ {  
+    "id":656,
+    "title":"Voting System with Mobile Application"
+ },
+ {  
+    "id":657,
+    "title":"Water Billing System PHP/MySQL"
+ },
+ {  
+    "id":658,
+    "title":"Weather Forecast Application using Android"
+ },
+ {  
+    "id":659,
+    "title":"Weather tracking System Powered by Google Earth APIs and Davis Weather Instruments"
+ },
+ {  
+    "id":660,
+    "title":"Web Application Development for San Diego Cricket Club"
+ },
+ {  
+    "id":661,
+    "title":"Web Content Management System for Wildland Urban Interface Fires Research"
+ },
+ {  
+    "id":662,
+    "title":"Web Page Analysis"
+ },
+ {  
+    "id":663,
+    "title":"Web Services Security Analysis and Management Tool"
+ },
+ {  
+    "id":664,
+    "title":"Web-Based Geographic Information Support System for International Student Tutor-Mentor Program"
+ },
+ {  
+    "id":665,
+    "title":"WEB-BASED TRACKING SYSTEM"
+ },
+ {  
+    "id":666,
+    "title":"Website for Freeway Evolution in San Diego County"
+ },
+ {  
+    "id":667,
+    "title":"Weight Build-Up & LOPA Sketch-Up Optimization Tool"
+ },
+ {  
+    "id":668,
+    "title":"When & how to use gestures Connecting our bodies & minds to computers"
+ },
+ {  
+    "id":669,
+    "title":"When and how to use animation Connecting human minds to computers"
+ },
+ {  
+    "id":670,
+    "title":"Wiki Contributions to Software Engineering"
+ },
+ {  
+    "id":671,
+    "title":"Wireless network coding extension for IEEE 802 11"
+ },
+ {  
+    "id":672,
+    "title":"Wireless Projects"
+ },
+ {  
+    "id":673,
+    "title":"World History Maps A GIS Based Teaching Tool"
+ },
+ {  
+    "id":674,
+    "title":"XPENSTRAK Expense Tracker Mobile Application for iPhone"
+ },
+ {  
+    "id":675,
+    "title":"YouTube and Beyond Exploring the unknown"
+ }
+]

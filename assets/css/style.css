@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Ubuntu');
+@import url(normalize.css);
+
+/**
+** Palette: #3C7899,#3C9099,#5FBDB0,#E3E2C3,#F0EFE2
+** URL: <a href="http://www.colourlovers.com/palette/4542628/Selfish_Jean?widths=1" target="_blank"><img src="http://www.colourlovers.com/images/badges/pw/4542/4542628_Selfish_Jean.png" style="width: 240px; height: 120px; border: 0 none;" alt="Selfish_Jean" /></a><br /><span style="font-size: 10px; color: #5e5e5e;"><a href="http://www.colourlovers.com/color" target="_blank" style="font-size: 10px; color: #5e5e5e;">Color</a> by <a href="http://www.colourlovers.com/" target="_blank" style="font-size: 10px; color: #5e5e5e;">COLOURlovers</a></span>
+**/
+
+
+/**
+** Fonts: 
+** font-family: 'Pacifico', cursive;
+** font-family: 'Ubuntu', sans-serif;
+**/
+
+html,body{
+  height: 100%;
+  
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body{
+  background: #F0EFE2;
+  font-family: 'Ubuntu', sans-serif;
+  padding-top: 50px;
+}
+
+.container{
+  max-width: 600px;
+  margin: 50px auto 20px;
+}
+
+.header-text{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 20px;
+  color: #3C7899;
+  text-shadow: 3px 3px #fff;
+}
+.form-search{
+  margin-bottom: 30px;
+}
+.form-search input[type="text"]{
+  width: 100%;
+  padding: 15px;
+  font-size: 150%;
+  background: #5FBDB0;
+  border: #3C9099 2px solid;
+  color: #F0EFE2;
+}
+
+/** Placeholder color **/
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #F0EFE2;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #F0EFE2;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #F0EFE2;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #F0EFE2;
+}
+
+.suggestions{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.suggestions li{
+  padding: 10px;
+  text-align: center;
+  background: #3C9099;
+  color: #fff;
+  font-size: 100%;
+  border-bottom: #E3E2C3 2px solid;
+  transition: all .2s ease-in;
+}
+.suggestions li:hover{
+  padding: 15px 10px;
+  font-size: 120%;
+  font-weight: bold;
+  background: #74C8CC;
+}
+
+.highlight{
+  background: #FF7E67;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.btn-random{
+  padding: 10px 5px;
+  width: 100%;
+  background: #5FBDB0;
+  color: #F0EFE2;
+  font-weight: 700;
+  cursor: pointer;
+  border: #3C9099 2px solid;
+}
+
+#random{
+  padding: 20px;
+  text-align: center;
+  background: #F19584;
+  bordeR: #F6E4C4 2px solid;
+  display: none;
+  font-weight: bold;
+  font-size: 24px;
+  color: #fff;
+}
